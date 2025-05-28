@@ -152,9 +152,27 @@ const Footer = () => {
             </p>
 
             <ul className="mt-6 space-y-4">
-              
+              <li>
+                <a
+                  href="#"
+                  title=""
+                  className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"
+                >
+                  {" "}
+                  Customer Support{" "}
+                </a>
+              </li>
 
-            
+              <li>
+                <a
+                  href="#"
+                  title=""
+                  className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"
+                >
+                  {" "}
+                  Delivery Details{" "}
+                </a>
+              </li>
 
               <li>
                 <a

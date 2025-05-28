@@ -43,9 +43,7 @@ export default function Header() {
           <a href="#home" className="text-sm font-semibold text-gray-900">
             Home
           </a>
-          <a href="#education" className="text-sm font-semibold text-gray-900">
-            Education
-          </a>
+          
           <a href="#resume" className="text-sm font-semibold text-gray-900">
             Resume
           </a>
