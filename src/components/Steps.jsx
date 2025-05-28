@@ -6,11 +6,10 @@ const Steps = () => {
       <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">
-            How does it work?
+            How can we collaborate?
           </h2>
           <p className="max-w-lg mx-auto mt-4 text-base leading-relaxed text-gray-600">
-            Amet minim mollit fan deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit officia consequat duis.
+            Whether you’re a recruiter, fellow developer, or someone with an idea, here’s how you can connect with me and get started.
           </p>
         </div>
 
@@ -26,40 +25,37 @@ const Steps = () => {
           <div className="relative grid grid-cols-1 text-center gap-y-12 md:grid-cols-3 gap-x-12">
             <div>
               <div className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
-                <span className="text-xl font-semibold text-gray-700"> 1 </span>
+                <span className="text-xl font-semibold text-gray-700">1</span>
               </div>
               <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">
-                Create a free account
+                Explore My Work
               </h3>
               <p className="mt-4 text-base text-gray-600">
-                Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit.
+                Check out the projects section to see what I’ve built and the technologies I’ve worked with — from websites to backend systems.
               </p>
             </div>
 
             <div>
               <div className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
-                <span className="text-xl font-semibold text-gray-700"> 2 </span>
+                <span className="text-xl font-semibold text-gray-700">2</span>
               </div>
               <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">
-                Build your website
+                Connect & Discuss
               </h3>
               <p className="mt-4 text-base text-gray-600">
-                Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit.
+                Like something you see? Reach out via the contact form, email, or social links. I’m always up for exciting ideas and collaborations!
               </p>
             </div>
 
             <div>
               <div className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
-                <span className="text-xl font-semibold text-gray-700"> 3 </span>
+                <span className="text-xl font-semibold text-gray-700">3</span>
               </div>
               <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">
-                Release & Launch
+                Let’s Build Together
               </h3>
               <p className="mt-4 text-base text-gray-600">
-                Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
-                amet sint. Velit officia consequat duis enim velit mollit.
+                Once we connect, we can brainstorm, plan, and build something meaningful — whether it’s an internship task, freelance project, or idea hack.
               </p>
             </div>
           </div>

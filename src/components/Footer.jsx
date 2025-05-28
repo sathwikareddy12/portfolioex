@@ -6,11 +6,11 @@ const Footer = () => {
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid grid-cols-2 md:col-span-3 lg:grid-cols-6 gap-y-16 gap-x-12">
           <div className="col-span-2 md:col-span-3 lg:col-span-2 lg:pr-8">
-            <img
+            {/* <img
               className="w-auto h-9"
               src="https://cdn.rareblocks.xyz/collection/celebration/images/logo.svg"
               alt=""
-            />
+            /> */}
 
             <p className="text-base leading-relaxed text-gray-600 mt-7">
               Amet minim mollit fan deserunt ullamco est sit aliqua dolor do
@@ -152,27 +152,9 @@ const Footer = () => {
             </p>
 
             <ul className="mt-6 space-y-4">
-              <li>
-                <a
-                  href="#"
-                  title=""
-                  className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"
-                >
-                  {" "}
-                  Customer Support{" "}
-                </a>
-              </li>
+              
 
-              <li>
-                <a
-                  href="#"
-                  title=""
-                  className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"
-                >
-                  {" "}
-                  Delivery Details{" "}
-                </a>
-              </li>
+            
 
               <li>
                 <a
